@@ -1,4 +1,4 @@
-# PokéAPI
+# PokeAPI
 
 [![Software License](https://img.shields.io/github/license/nlabiris/pokeapi.svg)](LICENSE.md)
 [![GitHub (pre-)release](https://img.shields.io/badge/alpha-v0.0.1-red.svg)](https://github.com/nlabiris/pokeapi/releases)
